@@ -20,7 +20,6 @@ import java.awt.event.ActionEvent;
  * responsible for determining if the move is valid, and if it is to update the game and the chessboard
  * with the results of making that move.</p>
  * 
- * @author Harold Connamacher
  */
 public class ChessBoard {
   
