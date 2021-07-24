@@ -2,7 +2,6 @@ import javax.swing.JButton;
 
 /** Rules for how we want the chess board to display
   * 
-  * @author Harold Connamacher
   */
 public interface ChessBoardDisplay {
   
