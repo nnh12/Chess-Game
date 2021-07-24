@@ -1,7 +1,5 @@
 /**
  * An interface that encodes specific rules for a version of chess.
- * 
- * @author Harold Connamacher
  */
 public abstract class ChessGame {
   /** The "side" or "team" or "player" the piece belongs to.  
