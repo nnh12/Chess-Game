@@ -4,8 +4,6 @@ import javax.swing.Icon;
 import java.awt.Toolkit;
 
 /** Rules for how we want a board to display for a game of European chess
-  * 
-  * @author Harold Connamacher
   */
 public class EuropeanChessDisplay implements ChessBoardDisplay {
   
